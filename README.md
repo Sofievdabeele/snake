@@ -38,7 +38,7 @@ This Snake game is a classic arcade-style implementation where the player contro
 
   git clone https://github.com/Sofievdabeele/snake-game.git
   
-3. Install Pygame:
+2. Install Pygame:
 
   pip install pygame
 
