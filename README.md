@@ -2,7 +2,6 @@
 
 A simple Snake game implemented in Python using the Pygame library.
 
-![Snake Game](screenshot.png)
 ![Screenshot 2023-12-20 at 13 44 19](https://github.com/Sofievdabeele/snake/assets/120273548/087d5c29-97c1-47b9-8665-b1bd62d816bf)
 
 ## Table of Contents
